@@ -1,0 +1,33 @@
+* {
+  font-family: 'Baloo Paaji', cursive;
+  margin: 0 auto;
+}
+.directions {
+  width: 40%;
+  float: left;
+  background-color: #C0D1FF;
+  padding: 20px;
+  height: 650px;
+}
+ol {
+  margin-top: 70px;
+  margin-right: 20px;
+  font-size: 25px;
+}
+h1 {
+  text-align: center;
+  color: #8200B2;
+  margin-top: 20px;
+  font-size: 38px;
+}
+.grid {
+  /*background-image: url("tic-tac-toe.png");
+  background-position: 50px;
+  background-repeat: no-repeat;*/
+  height: 650px;
+  width: 50%;
+  float: right;
+  background-color: #f5fffa;
+  margin: 0 auto;
+  align-items: center;
+}
