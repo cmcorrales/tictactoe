@@ -31,3 +31,8 @@ h1 {
   margin: 0 auto;
   align-items: center;
 }
+td {
+  font-size: 80px;
+  text-align: center;
+  
+}
