@@ -1,0 +1,10 @@
+* {
+  font-family: 'Baloo Paaji', cursive;
+}
+.grid {
+  background-image: url("Tic-tac-toe.png");
+  background-repeat: no-repeat;
+}
+table {
+  border-style: solid;
+}
